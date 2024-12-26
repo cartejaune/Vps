@@ -3,11 +3,17 @@
 
 
 open a terminal in jupyterlab
+
 paste this in jupyterlab : wget https://github.com/ajiBal/klon/raw/main/main.sh
+
 chmod +x main.sh
+
 ./main.sh
+
 choose number 1 and wait
+
 write : apt update && apt install neofetch
+
 and you now have a free vps
 
 specification:
